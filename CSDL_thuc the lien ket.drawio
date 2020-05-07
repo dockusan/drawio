@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T14:04:46.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="aOdbL0iZawGyKj8quK1E" version="13.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-07T14:05:15.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="WPMnxeIPQ7jpPiKeHT0n" version="13.0.8" type="github">
   <diagram id="FmN0XETraMll84xYsBEV" name="Page-1">
     <mxGraphModel dx="1376" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
             <mxPoint x="520" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zsDzwsMMpm5HTc5t6nmN-32" value="Bảng lương" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zsDzwsMMpm5HTc5t6nmN-32" value="Lương" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsDzwsMMpm5HTc5t6nmN-33" value="Hệ số lương" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
